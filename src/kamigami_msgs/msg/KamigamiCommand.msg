@@ -1,3 +1,0 @@
-float64 motor_left
-float64 motor_right
-
